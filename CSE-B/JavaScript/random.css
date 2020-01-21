@@ -1,0 +1,25 @@
+body{
+
+}
+#name{
+	border-width: 2px;
+	padding: 5px;
+	width: 30%;
+
+	height: 10px;
+	margin: 10px;
+
+}
+#id{
+		border-width: 2px;
+	padding: 5px;
+	width: 30%;
+
+	height: 10px;
+	margin: 10px;
+
+}
+#btn{
+	border-top: 20px;
+	margin: 30px;
+}
