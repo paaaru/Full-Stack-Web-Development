@@ -1,0 +1,186 @@
+/* ===================LAYOUT SECTION==============*/
+
+body
+{
+background-image: url('C:\Users\Paru_god\Desktop\SoT\rj.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+margin:0;
+font-family:DyeLine;
+}
+
+/* ===================TOP SECTION==============*/
+
+#header
+{
+height:100px;
+
+margin:10px;
+border-radius:6px;
+}
+
+
+
+#nav
+{
+height:40px;
+margin:10px;
+border-radius:5px;
+}
+
+/* ===================MAIN SECTION==============*/
+
+.main
+{
+background:#ffe4c4;
+padding:10px;
+margin-left:10px;
+margin-top:10px;
+margin-bottom:10px;
+margin-right:530px;
+border-radius:5px;
+}
+
+/* ===================PARAGRAPH SECTION==============*/
+
+p
+{
+color:black;
+font-size:20px;
+}
+
+/* ===================HEADING SECTION==============*/
+
+h1
+{
+color:#ce282e;
+font-size:40px;
+
+}
+
+h2
+{
+color:blue;
+font-size:30px;
+}
+
+h3
+{
+font-size:50px;
+text-align:center;
+line-height:100px;
+font-family:century gothic;
+font-weight:bolder;
+margin:0px;
+color:#ffb6c2;
+}
+
+/* ===================SIDERIGHT SECTION==============*/
+
+.sideright
+{
+float:right;
+width:490px;
+background:#ffe4c4;
+padding:10px;
+margin-left:10px;
+margin-top:0px;
+margin-bottom:10px;
+margin-right:10px;
+border-radius:5px;
+clear:right;
+}
+
+
+
+/* ===================F OO TER==============*/
+#footer
+{
+margin:10px;
+background:#2e8b57;
+height:60px;
+border-radius:5px;
+line-height:30px;
+}
+
+/* ===================BUTT O NS==============*/
+
+#nav ul
+{
+padding:5px;
+margin:10px;
+border-radius:5px;
+list-style:none;
+text-align:center;
+
+}
+
+#nav ul li
+{
+
+display:inline;
+
+}
+
+#nav ul li a
+{
+font-size:20px;
+color:orange;
+text-decoration:none;
+padding:4px 30px 10px 30px;
+
+}
+
+#nav ul li a:hover
+{
+background: rgb(255,255,255);
+background: linear-gradient(146deg, rgba(255,255,255,1) 0%, rgba(192,254,62,1) 49%, rgba(255,255,255,1) 100%);
+
+text-decoration:none;
+
+}
+
+/* ===================FOOTER==============*/
+
+#footer ul
+{
+padding:5px;
+margin:10px;
+border-radius:5px;
+list-style:none;
+text-align:center;
+
+}
+
+#footer ul li
+{
+padding:40px;
+display:inline;
+
+}
+
+#footer ul li a
+{
+font-size:20px;
+color:orange;
+text-decoration:none;
+padding:4px 10px 5px 10px;
+}
+
+#footer ul li a:hover
+{
+background-color:orange;
+color:#2e8b57;
+text-decoration:none;
+}
+
+#footer
+{
+font-size:20px;
+text-align:center;
+color:orange;
+height:100px;
+}
+
+
