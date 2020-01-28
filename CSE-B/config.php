@@ -4,7 +4,7 @@ $userName = 'root';
 $password = '';
 $databaseName = 'CSEB';
     
-    
+ $abc=mysqli_connect($hostName, $userName, $password, $databaseName);
 if (mysqli_connect($hostName, $userName, $password, $databaseName)){
     echo 'Connection Successful!';
 }
